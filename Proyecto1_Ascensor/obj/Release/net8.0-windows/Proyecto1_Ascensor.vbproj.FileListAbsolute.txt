@@ -1,0 +1,6 @@
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Release\net8.0-windows\Proyecto1_Ascensor.Form1.resources
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Release\net8.0-windows\Proyecto1_Ascensor.vbproj.GenerateResource.cache
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Release\net8.0-windows\Proyecto1_Ascensor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Release\net8.0-windows\Proyecto1_Ascensor.AssemblyInfoInputs.cache
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Release\net8.0-windows\Proyecto1_Ascensor.AssemblyInfo.vb
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Release\net8.0-windows\Proyecto1_Ascensor.vbproj.CoreCompileInputs.cache

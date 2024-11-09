@@ -1,0 +1,16 @@
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\bin\Debug\net8.0-windows\Proyecto1_Ascensor.exe
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\bin\Debug\net8.0-windows\Proyecto1_Ascensor.deps.json
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\bin\Debug\net8.0-windows\Proyecto1_Ascensor.runtimeconfig.json
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\bin\Debug\net8.0-windows\Proyecto1_Ascensor.dll
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\bin\Debug\net8.0-windows\Proyecto1_Ascensor.pdb
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\Proyecto1_Ascensor.Form1.resources
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\Proyecto1_Ascensor.vbproj.GenerateResource.cache
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\Proyecto1_Ascensor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\Proyecto1_Ascensor.AssemblyInfoInputs.cache
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\Proyecto1_Ascensor.AssemblyInfo.vb
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\Proyecto1_Ascensor.vbproj.CoreCompileInputs.cache
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\Proyecto1_Ascensor.dll
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\refint\Proyecto1_Ascensor.dll
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\Proyecto1_Ascensor.pdb
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\Proyecto1_Ascensor.genruntimeconfig.cache
+C:\Users\Edgar Mora\source\repos\Proyecto1_Ascensor\Proyecto1_Ascensor\obj\Debug\net8.0-windows\ref\Proyecto1_Ascensor.dll
